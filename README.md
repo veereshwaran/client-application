@@ -2,7 +2,6 @@
 This is a simple applcation for illustrating Spring oauth2 workflow
 
 ### Requirement
-  - JAVA 11
   - Redis (To run redis docker container use this command - "docker run --name redis -p 6379:6379 -d redis")
   - Single Sign On Server (To run simple SSO server refer project - https://github.com/veereshwaran/sso-server)
   - Spring-boot-cli (To install spring-boot-cli refer - https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started-installing-spring-boot.html)
